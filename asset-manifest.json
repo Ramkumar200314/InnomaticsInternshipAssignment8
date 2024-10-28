@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/InnomaticsInternshipAssignment8/static/css/main.f263dc64.css",
+    "main.js": "/InnomaticsInternshipAssignment8/static/js/main.16094281.js",
+    "index.html": "/InnomaticsInternshipAssignment8/index.html",
+    "main.f263dc64.css.map": "/InnomaticsInternshipAssignment8/static/css/main.f263dc64.css.map",
+    "main.16094281.js.map": "/InnomaticsInternshipAssignment8/static/js/main.16094281.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f263dc64.css",
+    "static/js/main.16094281.js"
+  ]
+}
